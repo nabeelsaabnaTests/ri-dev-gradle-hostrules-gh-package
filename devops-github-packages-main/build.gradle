@@ -4,7 +4,7 @@ plugins {
 
 sourceCompatibility = JavaVersion.VERSION_11
 
-group 'io.flowsquad.blog'
+group 'mend'
 version '1.0.0'
 
 repositories {
