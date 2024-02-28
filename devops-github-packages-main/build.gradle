@@ -22,7 +22,7 @@ repositories {
     }
 }
 
-//dependencies {
-//    // The reference to our published library artifact
-//    implementation 'mend:devops-github-packages-library:1.0.0'
-//}
+dependencies {
+    // The reference to our published library artifact
+    implementation 'mend:devops-github-packages-library:1.0.0'
+}
