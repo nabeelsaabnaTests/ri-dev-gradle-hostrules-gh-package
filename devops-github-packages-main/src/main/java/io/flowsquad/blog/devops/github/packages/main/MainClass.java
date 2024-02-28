@@ -5,7 +5,6 @@ import io.flowsquad.blog.devops.github.packages.library.LibraryClass;
 public class MainClass {
     public static void main(String[] args) {
 //        System.out.println(new LibraryClass().utilityMethod());
-        System.out.println("HelloWorld");
-        HelloWorld
+        System.out.println("Hello World");
     }
 }
