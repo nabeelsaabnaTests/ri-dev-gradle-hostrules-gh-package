@@ -3,6 +3,9 @@
   "scanSettingsSAST": {
     "enableScan": false
   },
+  "checkRunSettings": {
+    "strictMode": "warning"
+  },
   "hostRules": [
     {
       "matchHost": "https://maven.pkg.github.com/DimaMend/gradle-hostrules",
