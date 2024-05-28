@@ -17,11 +17,11 @@
   },
   "hostRules": [
     {
-      "matchHost": "https://maven.pkg.github.com/DimaMend/gradle-hostrules",
+      "matchHost": "https://maven.pkg.github.com/nabeelsaabna/jwt-tester",
       "hostType": "maven",
-      "username": "DimaMend",
+      "username": "nabeelsaabna",
       "encrypted": {
-          "token": "wcBMA8xOaBJvzJNbAQf/aFoveXlni+pkQdEq1aPfxc2mXcTo3bAbfjuHbF1v9iIdsWJ/IlutaQhC37OfoE2rBHbaySn7fbsHVOtQKPOfh2pjWICli73jDhipToRo9fDSekrCW4V6Ak7ueOpMygVgmKqf1SxiWEYR63QFe7gWn825JfBwaQQGrhYBfw0FPSUzusHp0guOUGlsGFMzVnUzMxV819Shx9An/K7DsM8gAUsrBeF8bISfJJEldFTi+spvCQJgb3PH8mq/ZiF0bCeZRYadmt9TfVpjxnQsmIvOBPgTIjAZmiiioviye7MKQ9j/587VrGmYzkabpyzn3OtzXMOoRhd7l8FVFA1X4Tej1dJ3AWSwPufr3aHl+dzep2j3B6QRq8PPwQbriXrAV/5UxqVuPZB8iz4fLWLy5vNV6AOrddeAIYWwJXMobh4Uezb9wyr8aTQsEXji29D17DvdgYe8wqemcyS2c5vNaLceWiROhkE14CPfgtaafaBK/VEnM/G64JnAHKU"
+          "token": ""
       }
     }
   ]
