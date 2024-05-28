@@ -7,13 +7,7 @@
     "strictMode": "warning"
   },
   "remediateSettings": {
-	"dependencyDashboard": true,
-	"hostRules": [
-		{
-			"matchHost": "https://repo.maven.apache.org/maven2",
-			"hostType": "maven"
-		}
-	]
+	"dependencyDashboard": true
   },
   "hostRules": [
     {
