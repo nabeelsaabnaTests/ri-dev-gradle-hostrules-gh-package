@@ -7,7 +7,8 @@
     "strictMode": "warning"
   },
   "remediateSettings": {
-	"dependencyDashboard": true
+	"dependencyDashboard": true,
+	"enableRenovate": true
   },
   "hostRules": [
     {
