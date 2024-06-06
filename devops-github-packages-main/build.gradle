@@ -24,5 +24,5 @@ repositories {
 
 dependencies {
     // The reference to our published library artifact
-    implementation 'io.mend.nabeelsaabna:app:1.0.0'
+    implementation 'io.mend.nabeelsaabna:app:1.2.0'
 }
